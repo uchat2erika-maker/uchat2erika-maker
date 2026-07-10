@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hello, I'm Erika
 
-<!--
-**uchat2erika-maker/uchat2erika-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year BSc Computer Science (Software Development) student at Akademia, South Africa, with a passion for solving problems and continuously learning new technologies.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+        - Building Java projects to strengthen my software development skills
+  
+- 🌱 I’m currently learning:
+        - Git & GitHub
+        - FastAPI & Python
+        - Software Engineering best practices
+  
+- 📚 Relevant Courseword (Over the past 3 semesters)
+        - Java Programming
+        - Algoritms $ Data Structures
+        - Project Planning
+        - SQL & NoSQL Databases
+        - Cloud Computing
+        - HTML, CSS & JavaScript
+        - Robotics
+        - Emerging Technologies (Artificial Intelligence, Queantum Computing and more)
+  
+- 📫 How to reach me:
+        - Instagram: _erika_2465
+        - Email: uchat2erika@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns:
+        -She/her
+
+- ⚡ Fun fact:
+        -When I'm not coding, I enjy reading, camping, arts & crafts, sewing and building creative                 projects
+
