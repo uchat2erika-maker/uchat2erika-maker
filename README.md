@@ -28,5 +28,5 @@ I'm a second-year BSc Computer Science (Software Development) student at Akademi
         -She/her
 
 - ⚡ Fun fact:
-        -When I'm not coding, I enjy reading, camping, arts & crafts, sewing and building creative                 projects
+        - When I'm not coding, I enjy reading, camping, arts & crafts, sewing and building creative projects
 
